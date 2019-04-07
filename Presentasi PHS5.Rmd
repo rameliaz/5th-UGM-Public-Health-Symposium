@@ -35,7 +35,7 @@ class: title-slide, spaced
 ## The 5th UGM Public Health Symposium `r fa("universal-access")`
 <br>
 ### <b>Rizqy Amelia Zein</b>
-### Tutor, [Faculty of Psychology, Universitas Airlangga](https://psikologi.unair.ac.id)
+### Lecturer, [Faculty of Psychology, Universitas Airlangga](https://psikologi.unair.ac.id)
 ### Researcher-in-training, [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/)
 
 ---
@@ -44,13 +44,13 @@ class: center, middle
 
 # Keeping in touch  
 
-`r fa("paper-plane")` <a href="mailto:amelia.zein@psikologi.unair.ac.id"></i>&nbsp; amelia.zein@psikologi.unair.ac.id</a><br>
-`r fa("twitter")` [@ameliazein](https://twitter.com/ameliazein)<br>
-`r fa("github")` [@rameliaz](https://github.com/rameliaz)<br>
-`r fa("desktop")` [rameliaz.github.io](https://rameliaz.github.io)<br>
+`r fa("paper-plane")` <a href="mailto:amelia.zein@psikologi.unair.ac.id"></i>&nbsp; amelia.zein@psikologi.unair.ac.id</a>
+`r fa("twitter")` [@ameliazein](https://twitter.com/ameliazein)
+`r fa("github")` [@rameliaz](https://github.com/rameliaz)
+`r fa("desktop")` https://rameliaz.github.io
 
 
-The slides are licensed as `r fa("creative-commons")` BY-NC 4.0.
+The slides are licensed as `r fa("creative-commons")` BY-NC 4.0 and available in my `r fa("github")` [repository](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
 
 ---
 class: inverse, center, middle
@@ -58,9 +58,13 @@ class: inverse, center, middle
 # Getting it right, not just getting it published<sup>*</sup>
 
 ### Is "publish or perish" culture still relevant?
+### How can we change the norms?
+### Why is science too polluted by noises?
+### What should we do to improve this situation?
+### How is the best strategy to promote #OpenScience to academics?
 
 .footnote[
-[*] Taken from [Brian Nosek](https://doi.org/10.1177/1745691612459058) as presented in [Open Science Symposium](https://www.ugent.be/en/agenda/1552411542557) in Ghent University, 2019
+[*] [Brian Nosek](https://doi.org/10.1177/1745691612459058)(2019) as presented in [Open Science Symposium](https://www.ugent.be/en/agenda/1552411542557) in Ghent University
 ]
 
 ---
@@ -73,7 +77,7 @@ class: inverse, center, middle
 
 --
 
-  + We need to make our works **openly accessible** to everyone instead of **locking up** in paywalled outlets
+  + We need to make our works **openly accessible** to everyone instead of **locking those up** in paywalled outlets
   
 --
 
@@ -107,7 +111,7 @@ class: inverse, center, middle
 --
 
   + **Stop relying on crude metrics**. The real question that should be answered: have our research been done with **sound methodology**? **Are the findings credible?**
-
+  
 ---
 
 class: middle, inverse, center
@@ -133,14 +137,14 @@ class: middle, center
 
 --
 
-1. It happens almost in every disciplines
+1. Plaguing almost every disciplines
 
 --
   + Including [medicine](https://doi.org/10.1126/scitranslmed.aaf5027), [biology](https://link.springer.com/article/10.1007/s11538-018-0497-0), [chemistry](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.7b00907), [hydrology](https://www.nature.com/articles/sdata201930?fbclid=IwAR3nMcbsjpDOQxj9jxLBxYsrdTmcjBTUq3CsWydyW0pl-PPmwKe8hiZsOQg#f2), [psychology](https://www.pnas.org/content/115/11/2628), and many more! (it's a long list, tbh)
 
 --
 
-1. Undermining the credibility of science (and scientists, too)
+1. The danger: Undermining **the credibility of science** (and scientists, too)
 
 --
 
@@ -152,7 +156,7 @@ class: middle, center
 
 --
 
-1. Cumulative science is no longer useful, because it is based on highly-biased estimation (due to publication bias)<sup>1</sup>
+1. Cumulative science is not so useful anymore, because it is based on highly-biased estimation (due to publication bias)<sup>1</sup>
 
 --
 
@@ -175,13 +179,13 @@ class: middle, center, inverse
 
 # A Manifesto for Reproducible Science<sup>*</sup>
 
-- Protecting against (our) cognitive biases
+- Protecting against (our) cognitive biases (because even scientists *are not free* from biases)
 
-- Improving methodological training
+- Improving methodological training (this is what we *truly* need)
 
-- Independent methodological support
+- Independent methodological support (do we need independent science critics?)
 
-- Collaboration and team science
+- Collaboration and team science (definitely, no more competition! we are *bad* at it)
 
 - Promoting study [pre-registration](https://wwww.pnas.org/cgi/doi/10.1073/pnas.1708274114)
 
@@ -192,16 +196,16 @@ class: middle, center, inverse
 # A Manifesto for Reproducible Science<sup>*</sup>
 
 .pull-left[
-- Improving the quality of reporting
+- Improving the quality of reporting (complete & reproducible)
 
 - Protecting against conflicts of interest
 
 - Encouraging transparency and open science
   + Share materials and data, use open-source, reproducible software (`r fa("r-project")`, `r fa("python")` and many more)
   
-- Diversifying peer review
+- Diversifying peer review (why not make it open?)
 
-- Rewarding open and reproducible practices
+- Rewarding open and reproducible practices (not relying on crude metrics)
 ]
 
 .pull-right[
